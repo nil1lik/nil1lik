@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713467441/nil_birlik_2_q4zd79.gif"  />
+  <img height="250" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713465611/nil_birlik_1_fjdlw7.gif"  />
 </div>
 
 ###
