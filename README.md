@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713465611/nil_birlik_1_fjdlw7.gif"  />
+  <img height="400" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713465611/nil_birlik_1_fjdlw7.gif"  />
 </div>
 
 ###
@@ -60,10 +60,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nil1lik/nil1lik/output/snake.svg" alt="Snake animation" />
 
 ###
 
