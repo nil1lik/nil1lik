@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="250" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713468380/nil_birlik_3_y5x4fj.gif"  />
+  
+  <img height="250" src="![nil birlik (4)](https://github.com/nil1lik/nil1lik/assets/144815514/92cd0e0b-fa95-431e-a2c1-03f0c68137ea)"  />
 </div>
+
 
 ###
 
