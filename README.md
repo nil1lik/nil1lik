@@ -33,12 +33,12 @@ Even though I completed my academic education in a non-software field, my career
 </p>
 
 ###
-<h3 align="left">• my languages and tools:</h3>
-• my hobbies:
-  <img src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713524129/joystick_i92jhg.png" height="40" width="12" alt="joystick logo"  /> • Games
 
-  
+<h3 align="left">• my hobbies</h3>
+<img src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713524129/joystick_i92jhg.png" alt="joystick logo"  /> Games
+
 ###
+
 <h3 align="left">• my languages and tools:</h3>
 
 ###
