@@ -1,6 +1,7 @@
 <div align="center">
   
   <img height="250" src="![nil birlik (4)](https://github.com/nil1lik/nil1lik/assets/144815514/92cd0e0b-fa95-431e-a2c1-03f0c68137ea)"  />
+  ![nil birlik (4)](https://github.com/nil1lik/nil1lik/assets/144815514/92cd0e0b-fa95-431e-a2c1-03f0c68137ea)
 </div>
 
 
