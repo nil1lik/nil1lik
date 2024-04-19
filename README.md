@@ -28,12 +28,16 @@
 ###
 
 <p text-align: "left">
-    ~Hello 👋, I'm Nil. Since I was a little girl, I have been constantly improving myself with my interest in technology and software. In addition to technical knowledge, I gained practical skills such as learning how to repair my electronic devices myself. Technology is my field of learning and having fun.
-Even though I completed my academic education in a non-software field, my career journey took me from the lab to the software lab. Now, I am ready to use my analytical thinking skills to learn new things and solve problems in the software world. I can't wait to embark on a journey full of dynamic thinking and the ability to find quick solutions to problems. I love playing games and leading an organized life. Here, I hope to meet people with the same passion as me and collaborate on projects!
+    Hello 👋, I'm Nil. I have been constantly improving myself with my interest in technology and software since I was little. In addition to technical knowledge, I gained practical skills such as learning to repair my electronic devices myself. Technology is my field of learning and having fun.
+Even though I completed my academic education in a non-software field, my career journey took me from the lab to the software lab. Now, I am ready to use my analytical thinking skills to learn new things and solve problems in the software world. I can't wait to embark on a journey full of dynamic thinking and the ability to find quick solutions to problems. Here, I hope to meet people with the same passion as me and collaborate on projects!
 </p>
 
 ###
-
+<h3 align="left">• my languages and tools:</h3>
+• my hobbies:
+  <img src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713524129/joystick_i92jhg.pn" height="40" alt="joystick logo"  />
+  <img width="12" /> • Games
+###
 <h3 align="left">• my languages and tools:</h3>
 
 ###
