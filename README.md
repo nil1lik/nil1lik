@@ -28,9 +28,9 @@
 ###
 
 <p text-align: "left">
-    Hello 👋, I'm Nil. I have been constantly improving myself with my interest in technology and software since I was little. In addition to technical knowledge, I gained practical skills such as learning to repair my electronic devices myself. Technology is my field of learning and having fun.
+    <i>Hello 👋, I'm Nil. I have been constantly improving myself with my interest in technology and software since I was little. In addition to technical knowledge, I gained practical skills such as learning to repair my electronic devices myself. Technology is my field of learning and having fun.
 Even though I completed my academic education in a non-software field, my career journey took me from the lab to the software lab. Now, I am ready to use my analytical thinking skills to learn new things and solve problems in the software world. I can't wait to embark on a journey full of dynamic thinking and the ability to find quick solutions to problems. Here, I hope to meet people with the same passion as me and collaborate on projects!
-</p>
+</i></p>
 
 ###
 
