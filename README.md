@@ -27,7 +27,10 @@
 
 ###
 
-<p align="left">~someone who likes to be in the field of software and technology, someone whose job is a hobby! <br>a journey from laboratorian to software laboratorian...</p>
+<p style="text-align: left; font-size: 12pt; font-style: italic; color: darkgray;">
+    ~Hello 👋, I'm Nil. Since I was a little girl, I have been constantly improving myself with my interest in technology and software. In addition to technical knowledge, I gained practical skills such as learning how to repair my electronic devices myself. Technology is my field of learning and having fun.
+Even though I completed my academic education in a non-software field, my career journey took me from the lab to the software lab. Now, I am ready to use my analytical thinking skills to learn new things and solve problems in the software world. I can't wait to embark on a journey full of dynamic thinking and the ability to find quick solutions to problems. I love playing games and leading an organized life. Here, I hope to meet people with the same passion as me and collaborate on projects!
+</p>
 
 ###
 
