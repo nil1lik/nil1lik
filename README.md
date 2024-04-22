@@ -46,7 +46,6 @@ Even though I completed my academic education in a non-software field, my career
 <h3 align="left">• my languages and tools:</h3>
 
 ###
-<div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="10" />
@@ -87,7 +86,6 @@ Even though I completed my academic education in a non-software field, my career
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
-</div>
 </div>
 
 ###
