@@ -20,11 +20,6 @@
   </a>
 </div>
 
-
-###
-
-<h1 align="center">welcome to my 🌍!</h1>
-
 ###
 
 <h3 align="left">• my languages and tools:</h3>
