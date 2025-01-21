@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img height="250" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1713549293/nil_birlik_4_umgowv.gif"  />
+  <img height="250" src="https://res.cloudinary.com/dcpbbqilg/image/upload/v1737493429/github-banner_yiozb2.gif"  />
 </div>
 
 
